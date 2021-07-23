@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackcloudiy
 - 👀 I’m interested in Video Gaming and Singing
-- 🌱 I’m currently learning Data Scientist
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me kleckyew@gmail.com
 
 <!---
